@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ROV2019.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SavedConnections" Type="ROV2019.Models.ArduinoConnections" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SavedControllers" Type="ROV2019.Models.Controllers" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
